@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "..",
+  "chefRoleName": "Chef",
+  "ticketCategoryName": "Orders"
+}
